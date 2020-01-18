@@ -69,3 +69,14 @@ width:200px;
 .input {
 	display: none;
 }
+
+.fig {
+	height:70px;
+	width:120px;
+	background-color:#c7c7c7;
+	border-radius:15px 15px 15px 15px;
+	margin:auto;
+	display: block;
+	outline: none;
+	margin-top: 15px;
+}
