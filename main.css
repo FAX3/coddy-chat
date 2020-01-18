@@ -47,3 +47,26 @@ margin-bottom: 100px;
 	outline: none;
 	margin-top: 75px;
 }
+
+.circle {
+margin:auto;
+display: block;
+height: 200px;
+width:200px;
+}
+
+.confirm2 {
+	height: 100px;
+	width:200px;
+	background-color: #c7c7c7;
+	border-radius: 15px 15px 15px 15px;
+	margin:auto;
+	display: block;
+	outline: none;
+	margin-top: 35px;
+}
+
+.input {
+	display: none;
+}
+
