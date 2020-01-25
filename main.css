@@ -80,3 +80,49 @@ width:200px;
 	outline: none;
 	margin-top: 15px;
 }
+
+.left-arrow {
+	height: 40px;
+	width: 55px;
+	float: left;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+.chatmenu {
+	border-radius: 180px;
+	outline: none;
+	float: left;
+	margin-left: 200px;
+	background-image: url(img/zoom.png);
+	height: 24px;
+	background-repeat: no-repeat;
+	margin-top: 20px;
+	padding-left: 25px;
+}
+
+.grey-block {
+	background-color: #dfdfdf;
+	height: 1080px;
+	width:800px;
+	display: flex;
+	margin: auto;
+}
+
+.massage-wrap {
+	height:100px;
+	width: 160px;
+	background-color: #eae9e9;
+	border-radius: 180px;
+	margin-top: 30px;
+
+}
+
+.message {
+	height:100px;
+	width: 640px;
+}
+
+.d-inline-block {
+	display: inline-block;
+}
