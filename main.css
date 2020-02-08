@@ -127,43 +127,64 @@ width:200px;
 	display: inline-block;
 }
 
-.message-wrap {
-display: flex;
+.mol {
+margin:auto;
+display: block;
+height: 150px;
+width:150px;
 }
 
-.d-inline-block {
-	display: inline-block;
+h1{
+	font-size: 20px;
+font-family: 'Roboto', sans-serif;
+text-align: center;
+margin-bottom: 50px;
+
+}
+h2{
+	font-size: 20px;
+font-family: 'Roboto', sans-serif;
+text-align: center;
+margin-bottom: 50px;
 }
 
-.message-wrap {
-display: flex;
+.sic{
+	margin:auto;
+display: block;
+height: 20px;
+width:30px;
+}
+h3{
+	font-size: 20px;
+font-family: 'Roboto', sans-serif;
+text-align: center;
+margin-bottom: 50px;	
 }
 
-.menu {
-    width: 50px;
-    /* height: 100px; */
-    background-color: #299AB2;
-    position: absolute;
-    margin-left: -50px;
-    border-radius: 15px;
+h4{
+	font-size: 20px;
+font-family: 'Roboto', sans-serif;
+text-align: center;
+margin-bottom: 50px;	
 }
 
-.d-block {
-	display: flex;
-	color: white;
-	text-align: center;
+.kryg {
+	margin:auto;
+display: block;
+height: 70px;
+width:70px;
 }
 
-.d-block-blue {
-	color:#47aafd;
-	text-align: center;
+.msg{
+	margin:center;
+display: block;
+height: 50px;
+width:50px;
 }
 
-.d-block-white {
-	color: white;
-	text-align: center;
-}
-
-.mas {
-	margin-left: -42px;
+.text{
+	font-size: 50px;
+font-family: 'Roboto', sans-serif;
+text-align: center;
+margin-bottom: 20px;
 }
