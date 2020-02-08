@@ -130,3 +130,40 @@ width:200px;
 .message-wrap {
 display: flex;
 }
+
+.d-inline-block {
+	display: inline-block;
+}
+
+.message-wrap {
+display: flex;
+}
+
+.menu {
+    width: 50px;
+    /* height: 100px; */
+    background-color: #299AB2;
+    position: absolute;
+    margin-left: -50px;
+    border-radius: 15px;
+}
+
+.d-block {
+	display: flex;
+	color: white;
+	text-align: center;
+}
+
+.d-block-blue {
+	color:#47aafd;
+	text-align: center;
+}
+
+.d-block-white {
+	color: white;
+	text-align: center;
+}
+
+.mas {
+	margin-left: -42px;
+}
