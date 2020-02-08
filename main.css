@@ -126,3 +126,7 @@ width:200px;
 .d-inline-block {
 	display: inline-block;
 }
+
+.message-wrap {
+display: flex;
+}
