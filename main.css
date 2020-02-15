@@ -106,8 +106,8 @@ width:200px;
 	background-color: #dfdfdf;
 	height: 1080px;
 	width:800px;
-	display: flex;
-	margin: auto;
+	display:flex;
+	margin:auto;
 }
 
 .massage-wrap {
@@ -197,6 +197,16 @@ margin-bottom: 20px;
 	padding: 16px;
 	height: calc(100% - 75px);
 }
+.chat-area {
+	max-width: 800px;
+	background-color: white;
+	margin: auto;
+	padding: 16px;
+	/*
+	height: calc(100% 75px);
+	*/
+
+}
 
 .message {
 	display: flex;
@@ -221,6 +231,9 @@ margin-bottom: 20px;
 	font-weight: bold;
 	margin-bottom: 4px;
 }
+
+
+}	
 
 .message-time {
 	float: right;
